@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 480: end of line expected.
+    n "어떤 남자애 욕 같이 하다가 친해졌어.":
+                             ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Fri Nov  1 21:59:13 2024
